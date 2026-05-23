@@ -43,8 +43,8 @@ Production-ready backend system built using Java, Spring Boot, REST APIs, and Po
 
 **Tech:** Java, Spring Boot, PostgreSQL, REST APIs, Render, Neon PostgreSQL
 
-🌐 Live Portfolio: https://prashantbairagi.com  
-🔗 Repository: ADD_REPO_LINK
+🌐 Live Portfolio: [https://prashant-bairagi-portfolio.vercel.app/]
+🔗 Repository: [https://github.com/PrashantOmBairagi/portfolio-backend-api , https://github.com/PrashantOmBairagi/Frontend-Web-Learning (Portfolio V2)]
 
 ---
 
@@ -53,7 +53,7 @@ Backend system for personal finance tracking, expense categorization, analytics,
 
 **Tech:** Java, Spring Boot, Spring Data JPA, REST APIs, PostgreSQL
 
-🔗 Repository: ADD_REPO_LINK
+🔗 Repository: [https://github.com/PrashantOmBairagi/smart-finance-tracker]
 
 ---
 
@@ -62,7 +62,7 @@ Custom vehicle central locking system built using RF communication and embedded 
 
 **Tech:** ATmega328, RF Communication (433 MHz), PCB Design, Embedded Systems
 
-🔗 Repository: ADD_REPO_LINK
+🔗 Repository: [https://github.com/PrashantOmBairagi/Smart-Central-Locking-System]
 
 ---
 
