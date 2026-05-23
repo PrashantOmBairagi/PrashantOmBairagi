@@ -2,6 +2,10 @@
 
 ### Backend Developer | Java | Spring Boot | REST APIs | PostgreSQL
 
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-Visit_Website-green?style=for-the-badge)](https://prashant-bairagi-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://linkedin.com/in/prashant-bairagi-kmlpr)
+
+
 Backend-focused engineering student at Jabalpur Engineering College passionate about building production-oriented backend systems using Java and Spring Boot.
 
 Comfortable working across the backend stack — from database schema design and REST APIs to cloud deployment using Render, Neon PostgreSQL, and Vercel.
