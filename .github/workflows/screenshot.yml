@@ -1,0 +1,32 @@
+name: Refresh Project Screenshot
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Captures a new screenshot everyday at midnight
+  workflow_dispatch: # Allows you to manually trigger it anytime
+
+jobs:
+  capture-screenshot:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repo
+        uses: actions/checkout@v4
+
+      # Utilises a headless browser action to visit your website URL
+      - name: Capture Website Screenshot
+        uses: swinton/screenshot-website@v1.x
+        with:
+          source: https://your-awesome-live-project.com # 👈 Put your portfolio or live app URL here
+          destination: web-screenshot.png # Saves it locally onto the runner
+          width: 1280
+          height: 720
+
+      # Automatically commits the updated picture directly back to your repo
+      - name: Commit and Push Updated Screenshot
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add web-screenshot.png
+          git commit -m "chore: automated daily live website screenshot refresh" || exit 0
+          git push
