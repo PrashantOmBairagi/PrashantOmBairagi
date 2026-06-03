@@ -22,8 +22,7 @@ Building APIs, shipping projects, solving DSA, and occasionally negotiating with
 
 ## 🚀 About Me
 
-Backend-focused engineering student at **Jabalpur Engineering College** passionate about building systems that move beyond localhost.
-
+Backend-focused engineering student at **Jabalpur Engineering College** from **Shujalpur/Kamalpur** passionate about building systems that move beyond localhost.
 Most of my time currently goes into Java, Spring Boot, databases, APIs, deployment, and solving DSA problems.
 
 * 💻 Solved **140+ LeetCode problems**
@@ -45,7 +44,7 @@ Most of my time currently goes into Java, Spring Boot, databases, APIs, deployme
 <p align="center">
 
 **Languages**<br/>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,cpp,mysql,python&theme=dark" />
 
 **Backend**<br/>
 <img src="https://skillicons.dev/icons?i=spring,hibernate,maven,postman&theme=dark" />
