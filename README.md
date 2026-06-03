@@ -91,7 +91,7 @@ Status: Building & Learning
 ```
 
 ---
-
+> Every deployment teaches something a tutorial never could.
 
 ## 🚀 Featured Projects
 
@@ -175,5 +175,7 @@ https://github.com/PrashantOmBairagi
 https://leetcode.com/u/prashantbairagi2018/
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=1800&center=true&vCenter=true&width=800&lines=Backend+Developer+from+Jabalpur+Engineering+College;Java+%7C+Spring+Boot+%7C+REST+APIs+%7C+PostgreSQL;140%2B+LeetCode+Problems+Solved;Building+Smart+Finance+Tracker;Learning+by+Shipping+Projects+and+Deployments" />
+</p>
 
-> Every deployment teaches something a tutorial never could.
