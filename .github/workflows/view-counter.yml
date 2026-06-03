@@ -2,11 +2,16 @@ name: Update Profile Views
 on:
   schedule:
     - cron: "0 */6 * * *" # Runs every 6 hours
-  workflow_dispatch:
+  workflow_dispatch: # Allows manual trigger testing
 jobs:
   update-counter:
     runs-on: ubuntu-latest
     steps:
-      - uses: gayanvoice/github-profile-views-counter@master
+      - name: Checkout Repository Code
+        uses: actions/checkout@v4
+      
+      # 🔑 Fixed: Targets the actual runner module containing the action.yml configuration
+      - name: Fetch and Commit Views
+        uses: gayanvoice/github-profile-views-counter-action@3.0.0 
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          INSIGHTS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
