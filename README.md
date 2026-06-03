@@ -16,6 +16,9 @@ Building APIs, shipping projects, solving DSA, and occasionally negotiating with
   <a href="https://leetcode.com/u/prashantbairagi2018/">
     <img src="https://img.shields.io/badge/LeetCode-140%2B_Problems-orange?style=for-the-badge" />
   </a>
+  <a>
+  <img src="https://komarev.com/ghpvc/?username=PrashantOmBairagi&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  </a>
 </p>
 
 ---
@@ -89,14 +92,6 @@ Status: Building & Learning
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PrashantOmBairagi&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PrashantOmBairagi&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🚀 Featured Projects
 
@@ -145,6 +140,13 @@ Focused on real-world electronics, actuator control, RF communication, and proto
 https://github.com/PrashantOmBairagi/Smart-Central-Locking-System
 
 ---
+## 📊 GitHub Analytics & 🧠 LeetCode Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PrashantOmBairagi&show_icons=true&theme=dark" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PrashantOmBairagi&layout=compact&theme=dark" />
+  <img src="https://leetcard.jacoblin.cool/prashantbairagi2018?theme=dark&font=Nunito&ext=contest" />
+</p>
 
 ## 🧠 Problem Solving
 
@@ -174,4 +176,4 @@ https://leetcode.com/u/prashantbairagi2018/
 
 ---
 
-> Built this API myself. If it breaks, we pretend nothing happened.
+> Every deployment teaches something a tutorial never could.
