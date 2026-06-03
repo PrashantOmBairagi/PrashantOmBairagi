@@ -14,7 +14,7 @@ Building APIs, shipping projects, solving DSA, and occasionally negotiating with
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" />
   </a>
   <a href="https://leetcode.com/u/prashantbairagi2018/">
-    <img src="https://img.shields.io/badge/LeetCode-120%2B_Problems-orange?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LeetCode-140%2B_Problems-orange?style=for-the-badge" />
   </a>
 </p>
 
@@ -26,11 +26,17 @@ Backend-focused engineering student at **Jabalpur Engineering College** passiona
 
 Most of my time currently goes into Java, Spring Boot, databases, APIs, deployment, and solving DSA problems.
 
-* 💻 Solved **120+ LeetCode problems**
+* 💻 Solved **140+ LeetCode problems**
 * 🚀 Built and deployed a production portfolio backend
 * ⚙️ Interested in backend architecture, APIs, and scalable systems
 * 🔧 Experience with embedded systems, RF communication, and PCB design
 * 🌱 Currently learning React to become a stronger backend-focused full stack developer
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/PrashantOmBairagi/PrashantOmBairagi/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -76,7 +82,7 @@ Backend: Spring Boot
 Database: PostgreSQL
 Portfolio Backend: Deployed
 Current Project: Smart Finance Tracker
-DSA Progress: 120+ Problems Solved
+DSA Progress: 140+ Problems Solved
 Learning: React + Advanced Spring Boot
 Status: Building & Learning
 ```
@@ -142,19 +148,13 @@ https://github.com/PrashantOmBairagi/Smart-Central-Locking-System
 
 ## 🧠 Problem Solving
 
-* 💻 120+ LeetCode Problems Solved
+* 💻 140+ LeetCode Problems Solved
 * 📚 Active DSA Practice
 * 🎯 Preparing for Backend & Software Engineering Roles
 
 🔗 LeetCode
 
 https://leetcode.com/u/prashantbairagi2018/
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/PrashantOmBairagi/PrashantOmBairagi/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
