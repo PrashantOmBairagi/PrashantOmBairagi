@@ -13,6 +13,9 @@ Building APIs, shipping projects, solving DSA, and occasionally negotiating with
   <a href="https://linkedin.com/in/prashant-bairagi-kmlpr">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" />
   </a>
+  <a href="https://leetcode.com/u/prashantbairagi2018/">
+    <img src="https://img.shields.io/badge/LeetCode-120%2B_Problems-orange?style=for-the-badge" />
+  </a>
 </p>
 
 ---
@@ -24,9 +27,9 @@ Backend-focused engineering student at **Jabalpur Engineering College** passiona
 Most of my time currently goes into Java, Spring Boot, databases, APIs, deployment, and solving DSA problems.
 
 * 💻 Solved **120+ LeetCode problems**
-* 🚀 Building and deploying backend-focused projects
+* 🚀 Built and deployed a production portfolio backend
 * ⚙️ Interested in backend architecture, APIs, and scalable systems
-* 🔧 Also experienced with embedded systems, RF communication, and PCB design
+* 🔧 Experience with embedded systems, RF communication, and PCB design
 * 🌱 Currently learning React to become a stronger backend-focused full stack developer
 
 ---
@@ -43,14 +46,15 @@ Most of my time currently goes into Java, Spring Boot, databases, APIs, deployme
 ### Backend Development
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-59666C?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
 
 ### Database & Deployment
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon_PostgreSQL-00E699?style=for-the-badge)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel)
 
@@ -60,8 +64,8 @@ Most of my time currently goes into Java, Spring Boot, databases, APIs, deployme
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge\&logo=intellijidea)
-![VS\_Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge\&logo=intellijidea)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode)
 
 ---
 
@@ -70,7 +74,8 @@ Most of my time currently goes into Java, Spring Boot, databases, APIs, deployme
 ```yaml
 Backend: Spring Boot
 Database: PostgreSQL
-Current Project: Smart Finance Tracker & Analyzer
+Portfolio Backend: Deployed
+Current Project: Smart Finance Tracker
 DSA Progress: 120+ Problems Solved
 Learning: React + Advanced Spring Boot
 Status: Building & Learning
@@ -81,8 +86,8 @@ Status: Building & Learning
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PrashantOmBairagi&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantOmBairagi&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PrashantOmBairagi&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PrashantOmBairagi&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -91,27 +96,32 @@ Status: Building & Learning
 
 ### Portfolio Contact API
 
-A deployed Spring Boot backend powering my portfolio website's contact system.
+Production-ready Spring Boot backend powering my live portfolio website.
 
-Designed to process real user submissions through REST APIs, validate requests, store messages in PostgreSQL, handle exceptions gracefully, and integrate with a live frontend.
+Features request validation, exception handling, PostgreSQL persistence, REST APIs, cloud deployment, and frontend-backend integration.
 
-**Tech Stack:** Java • Spring Boot • REST APIs • PostgreSQL • Render • Neon PostgreSQL
+**Tech Stack**
 
-🔗 Backend Repository:
+`Java` • `Spring Boot` • `REST APIs` • `PostgreSQL` • `Render` • `Neon PostgreSQL`
+
+🔗 Backend Repository
 https://github.com/PrashantOmBairagi/portfolio-backend-api
 
-🌐 Live Portfolio:
+🌐 Live Portfolio
 https://prashant-bairagi-portfolio.vercel.app
 
 ---
 
 ### Smart Finance Tracker & Analyzer
 
-Personal finance tracking platform focused on expense management, categorization, and financial insights.
+Backend-focused finance tracking system designed to explore clean architecture, expense management, category-based tracking, and scalable API development.
 
-Built around Java and Spring Boot with a focus on clean backend architecture, database persistence, and practical financial analytics.
+**Tech Stack**
 
-**Tech Stack:** Java • Spring Boot • Spring Data JPA • REST APIs • PostgreSQL
+`Java` • `Spring Boot` • `Spring Data JPA` • `REST APIs` • `PostgreSQL`
+
+🔗 Repository
+https://github.com/PrashantOmBairagi/smart-finance-tracker
 
 ---
 
@@ -119,19 +129,24 @@ Built around Java and Spring Boot with a focus on clean backend architecture, da
 
 Custom vehicle central locking system built using RF communication and embedded hardware.
 
-Focused on real-world hardware integration, actuator control, RF communication, and prototype development.
+Focused on real-world electronics, actuator control, RF communication, and prototype development.
 
-**Tech Stack:** ATmega328 • 433 MHz RF • Embedded Systems • PCB Design
+**Tech Stack**
+
+`ATmega328` • `433 MHz RF` • `Embedded Systems` • `PCB Design`
+
+🔗 Repository
+https://github.com/PrashantOmBairagi/Smart-Central-Locking-System
 
 ---
 
 ## 🧠 Problem Solving
 
 * 💻 120+ LeetCode Problems Solved
-* 📚 Actively practicing Data Structures & Algorithms
-* 🎯 Preparing for Software Engineering and Backend Roles
+* 📚 Active DSA Practice
+* 🎯 Preparing for Backend & Software Engineering Roles
 
-LeetCode Profile:
+🔗 LeetCode
 
 https://leetcode.com/u/prashantbairagi2018/
 
