@@ -1,24 +1,21 @@
-# Hi 👋, I'm Prashant Bairagi
-
-<h3 align="center">Backend Developer • Java • Spring Boot • REST APIs • PostgreSQL</h3>
-
+<p align="center">
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a5c2a,100:FFD700&height=220&section=header&text=PRASHANT%20BAIRAGI&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&fontAlign=50&desc=Backend%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20REST%20APIs%20%E2%80%A2%20PostgreSQL&descAlignY=58&descSize=15" />
+</p>
 <p align="center">
 Building APIs, shipping projects, solving DSA, and occasionally negotiating with NullPointerExceptions.
 </p>
 
 <p align="center">
   <a href="https://prashant-bairagi-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Portfolio-Live-22c55e?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/prashant-bairagi-kmlpr">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/prashantbairagi2018/">
-    <img src="https://img.shields.io/badge/LeetCode-140%2B_Problems-orange?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LeetCode-140%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a>
-  <img src="https://komarev.com/ghpvc/?username=PrashantOmBairagi&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=PrashantOmBairagi&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
 </p>
 
 ---
@@ -45,45 +42,29 @@ Most of my time currently goes into Java, Spring Boot, databases, APIs, deployme
 
 ## 🛠 Tech Stack
 
-### Languages
+<p align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,mysql&theme=dark" />
 
-### Backend Development
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=spring,hibernate,maven,postman&theme=dark" />
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-59666C?style=for-the-badge)
-![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge)
+**Database & Deployment**<br/>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,vercel,render&theme=dark" />
 
-### Database & Deployment
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode&theme=dark" />
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon_PostgreSQL-00E699?style=for-the-badge)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge\&logo=intellijidea)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode)
+</p>
 
 ---
 
-## 🚀 Currently Shipping
+## ⚡ Currently Shipping
 
 ```yaml
 Backend: Spring Boot
 Database: PostgreSQL
-Portfolio Backend: Deployed
 Current Project: Smart Finance Tracker
 DSA Progress: 140+ Problems Solved
 Learning: React + Advanced Spring Boot
@@ -91,9 +72,10 @@ Status: Building & Learning
 ```
 
 ---
-> Every deployment teaches something a tutorial never could.
 
-## 🚀 Featured Projects
+## 🗂 Featured Projects
+
+> *Every deployment teaches something a tutorial never could.*
 
 ### Portfolio Contact API
 
@@ -101,15 +83,13 @@ Production-ready Spring Boot backend powering my live portfolio website.
 
 Features request validation, exception handling, PostgreSQL persistence, REST APIs, cloud deployment, and frontend-backend integration.
 
-**Tech Stack**
+![Java](https://img.shields.io/badge/Java-555555?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-555555?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-555555?style=for-the-badge&logo=postgresql&logoColor=white)
+![Render](https://img.shields.io/badge/Render-555555?style=for-the-badge&logo=render&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon_PostgreSQL-555555?style=for-the-badge&logo=neon&logoColor=white)
 
-`Java` • `Spring Boot` • `REST APIs` • `PostgreSQL` • `Render` • `Neon PostgreSQL`
-
-🔗 Backend Repository
-https://github.com/PrashantOmBairagi/portfolio-backend-api
-
-🌐 Live Portfolio
-https://prashant-bairagi-portfolio.vercel.app
+🔗 [Backend Repository](https://github.com/PrashantOmBairagi/portfolio-backend-api) &nbsp;|&nbsp; 🌐 [Live Portfolio](https://prashant-bairagi-portfolio.vercel.app)
 
 ---
 
@@ -117,12 +97,12 @@ https://prashant-bairagi-portfolio.vercel.app
 
 Backend-focused finance tracking system designed to explore clean architecture, expense management, category-based tracking, and scalable API development.
 
-**Tech Stack**
+![Java](https://img.shields.io/badge/Java-555555?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-555555?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-555555?style=for-the-badge&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-555555?style=for-the-badge&logo=postgresql&logoColor=white)
 
-`Java` • `Spring Boot` • `Spring Data JPA` • `REST APIs` • `PostgreSQL`
-
-🔗 Repository
-https://github.com/PrashantOmBairagi/smart-finance-tracker
+🔗 [Repository](https://github.com/PrashantOmBairagi/smart-finance-tracker)
 
 ---
 
@@ -132,50 +112,29 @@ Custom vehicle central locking system built using RF communication and embedded 
 
 Focused on real-world electronics, actuator control, RF communication, and prototype development.
 
-**Tech Stack**
+![ATmega328](https://img.shields.io/badge/ATmega328-555555?style=for-the-badge&logo=arduino&logoColor=white)
+![RF 433MHz](https://img.shields.io/badge/433MHz_RF-555555?style=for-the-badge&logo=hackster&logoColor=white)
+![Embedded](https://img.shields.io/badge/Embedded_Systems-555555?style=for-the-badge&logo=embarcadero&logoColor=white)
 
-`ATmega328` • `433 MHz RF` • `Embedded Systems` • `PCB Design`
-
-🔗 Repository
-https://github.com/PrashantOmBairagi/Smart-Central-Locking-System
+🔗 [Repository](https://github.com/PrashantOmBairagi/Smart-Central-Locking-System)
 
 ---
+
 ## 📊 GitHub Analytics & 🧠 LeetCode Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PrashantOmBairagi&show_icons=true&theme=dark" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PrashantOmBairagi&layout=compact&theme=dark" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PrashantOmBairagi&show_icons=true&theme=dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PrashantOmBairagi&layout=compact&theme=dark&hide_border=true" />
   <img src="https://leetcard.jacoblin.cool/prashantbairagi2018?theme=dark&font=Nunito&ext=contest" />
 </p>
 
-## 🧠 Problem Solving
-
-* 💻 140+ LeetCode Problems Solved
-* 📚 Active DSA Practice
-* 🎯 Preparing for Backend & Software Engineering Roles
-
-🔗 LeetCode
-
-https://leetcode.com/u/prashantbairagi2018/
-
 ---
 
-## 📫 Connect With Me
-
-🌐 Portfolio
-https://prashant-bairagi-portfolio.vercel.app
-
-💼 LinkedIn
-https://linkedin.com/in/prashant-bairagi-kmlpr
-
-💻 GitHub
-https://github.com/PrashantOmBairagi
-
-🧠 LeetCode
-https://leetcode.com/u/prashantbairagi2018/
-
----
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=1800&center=true&vCenter=true&width=800&lines=Backend+Developer+from+Jabalpur+Engineering+College;Java+%7C+Spring+Boot+%7C+REST+APIs+%7C+PostgreSQL;140%2B+LeetCode+Problems+Solved;Building+Smart+Finance+Tracker;Learning+by+Shipping+Projects+and+Deployments" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=2000&color=FFD700&center=true&vCenter=true&width=850&lines=%E0%A4%95%E0%A4%BE%E0%A4%AE%E0%A4%AF%E0%A4%BE%E0%A4%AC%E0%A5%80+%E0%A4%95%E0%A5%87+%E0%A4%AA%E0%A5%80%E0%A4%9B%E0%A5%87+%E0%A4%AE%E0%A4%A4+%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A5%8B%2C+%E0%A4%95%E0%A4%BE%E0%A4%AC%E0%A4%BF%E0%A4%B2+%E0%A4%AC%E0%A4%A8%E0%A5%8B...;%E0%A4%95%E0%A4%BE%E0%A4%AE%E0%A4%AF%E0%A4%BE%E0%A4%AC%E0%A5%80+%E0%A4%9D%E0%A4%95+%E0%A4%AE%E0%A4%BE%E0%A4%B0+%E0%A4%95%E0%A5%87+%E0%A4%AA%E0%A5%80%E0%A4%9B%E0%A5%87+%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A5%87%E0%A4%97%E0%A5%80%E0%A5%A4;%E0%A4%B8%E0%A4%9A%E0%A5%87%E0%A4%A4+%E0%A4%B0%E0%A4%B9%E0%A4%A8%E0%A5%87+%E0%A4%AA%E0%A4%B0+%E0%A4%AC%E0%A4%BE%E0%A4%A7%E0%A4%BE%E0%A4%8F%E0%A4%81+%E0%A4%AD%E0%A5%80+%E0%A4%B0%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BE+%E0%A4%AC%E0%A4%A8+%E0%A4%9C%E0%A4%BE%E0%A4%A4%E0%A5%80+%E0%A4%B9%E0%A5%88%E0%A4%82...;%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A5%81%E0%A4%B7%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A5+%E0%A4%B9%E0%A5%80+%E0%A4%AE%E0%A4%A8%E0%A5%81%E0%A4%B7%E0%A5%8D%E0%A4%AF+%E0%A4%95%E0%A5%80+%E0%A4%85%E0%A4%B8%E0%A4%B2%E0%A5%80+%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%A4%E0%A4%BF+%E0%A4%B9%E0%A5%88%E0%A5%A4" />
+  
 </p>
 
+<p align="center">
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:1a5c2a&height=100&section=footer" />
+</p>
