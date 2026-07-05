@@ -63,10 +63,10 @@ Most of my time currently goes into Java, Spring Boot, databases, APIs, deployme
 
 ```yaml
 Backend: Spring Boot
-Database: PostgreSQL
+Database: MySQL
 Current Project: Smart Finance Tracker
 DSA Progress: 140+ Problems Solved
-Learning: React + Advanced Spring Boot
+Learning: Advanced Spring Boot
 Status: Building & Learning
 ```
 
