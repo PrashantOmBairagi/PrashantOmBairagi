@@ -26,7 +26,7 @@ Backend-focused engineering student at **Jabalpur Engineering College** from **S
 Most of my time currently goes into Java, Spring Boot, databases, APIs, deployment, and solving DSA problems.
 
 * 💻 Solved **150+ LeetCode problems**
-* 🚀 Built and deployed a production portfolio backend
+* 🚀 Built and deployed multiple backend SpringBoot applications
 * ⚙️ Interested in backend architecture, APIs, and scalable systems
 * 🔧 Experience with embedded systems, RF communication, and PCB design
 * 🌱 Currently sharpening skills to become a stronger backend developer
