@@ -29,7 +29,7 @@ Most of my time currently goes into Java, Spring Boot, databases, APIs, deployme
 * 🚀 Built and deployed a production portfolio backend
 * ⚙️ Interested in backend architecture, APIs, and scalable systems
 * 🔧 Experience with embedded systems, RF communication, and PCB design
-* 🌱 Currently learning React to become a stronger backend-focused full stack developer
+* 🌱 Currently sharpening skills to become a stronger backend developer
 
 ---
 
@@ -83,7 +83,7 @@ Backend-focused finance tracking system designed to explore clean architecture, 
 ![Java](https://img.shields.io/badge/Java-555555?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-555555?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-555555?style=for-the-badge&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-555555?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySql-555555?style=for-the-badge&logo=postgresql&logoColor=white)
 
 🔗 [Repository](https://github.com/PrashantOmBairagi/smart-finance-tracker) &nbsp;|&nbsp; 
 🌐 [Swagger Documentation](https://smart-finance-tracker-v2-1-0.onrender.com/swagger-ui/index.html) &nbsp;|&nbsp;
