@@ -25,7 +25,7 @@ Building APIs, shipping projects, solving DSA, and occasionally negotiating with
 Backend-focused engineering student at **Jabalpur Engineering College** from **Shujalpur/Kamalpur** passionate about building systems that move beyond localhost.
 Most of my time currently goes into Java, Spring Boot, databases, APIs, deployment, and solving DSA problems.
 
-* 💻 Solved **140+ LeetCode problems**
+* 💻 Solved **150+ LeetCode problems**
 * 🚀 Built and deployed a production portfolio backend
 * ⚙️ Interested in backend architecture, APIs, and scalable systems
 * 🔧 Experience with embedded systems, RF communication, and PCB design
@@ -64,8 +64,8 @@ Most of my time currently goes into Java, Spring Boot, databases, APIs, deployme
 ```yaml
 Backend: Spring Boot
 Database: MySQL
-Current Project: Smart Finance Tracker
-DSA Progress: 140+ Problems Solved
+Current Project: Kharcha Pani - Personal Finance Tracker for Modern India
+DSA Progress: 150+ Problems Solved
 Learning: Advanced Spring Boot
 Status: Building & Learning
 ```
@@ -76,6 +76,20 @@ Status: Building & Learning
 
 > *Every deployment teaches something a tutorial never could.*
 
+### Kharcha Pani - Personal Finance Tracker for Modern India
+
+Backend-focused finance tracking system designed to explore clean architecture, expense management, category-based tracking, and scalable API development.
+
+![Java](https://img.shields.io/badge/Java-555555?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-555555?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-555555?style=for-the-badge&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-555555?style=for-the-badge&logo=postgresql&logoColor=white)
+
+🔗 [Repository](https://github.com/PrashantOmBairagi/smart-finance-tracker) &nbsp;|&nbsp; 
+🌐 [Swagger Documentation](https://smart-finance-tracker-v2-1-0.onrender.com/swagger-ui/index.html) &nbsp;|&nbsp;
+💻 [Download Apk](https://github.com/PrashantOmBairagi/kharcha-pani/releases/latest)
+
+---
 ### Portfolio Contact API
 
 Production-ready Spring Boot backend powering my live portfolio website.
@@ -92,18 +106,6 @@ Features request validation, exception handling, PostgreSQL persistence, REST AP
 
 ---
 
-### Smart Finance Tracker & Analyzer
-
-Backend-focused finance tracking system designed to explore clean architecture, expense management, category-based tracking, and scalable API development.
-
-![Java](https://img.shields.io/badge/Java-555555?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-555555?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-555555?style=for-the-badge&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-555555?style=for-the-badge&logo=postgresql&logoColor=white)
-
-🔗 [Repository](https://github.com/PrashantOmBairagi/smart-finance-tracker)
-
----
 
 ### Smart Central Locking System
 
