@@ -121,11 +121,9 @@ Focused on real-world electronics, actuator control, RF communication, and proto
 
 ---
 
-## 📊 GitHub Analytics & 🧠 LeetCode Stats
+## 🧠 LeetCode Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PrashantOmBairagi&show_icons=true&theme=dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PrashantOmBairagi&layout=compact&theme=dark&hide_border=true" />
   <img src="https://leetcard.jacoblin.cool/prashantbairagi2018?theme=dark&font=Nunito&ext=contest" />
 </p>
 
