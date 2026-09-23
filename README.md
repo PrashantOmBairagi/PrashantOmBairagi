@@ -65,7 +65,7 @@ Most of my time currently goes into Java, Spring Boot, databases, APIs, deployme
 Backend: Spring Boot
 Database: MySQL
 Current Project: Kharcha Pani - Personal Finance Tracker for Modern India
-DSA Progress: 150+ Problems Solved
+DSA Progress: 200+ Problems Solved
 Learning: Advanced Spring Boot
 Status: Building & Learning
 ```
